@@ -1,0 +1,21 @@
+{
+  "name": "run-stats",
+  "version": "0.1.0-alpha1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex VanLaningham <support@dailyruncoach.com> (http://dailyruncoach.com)",
+  "license": "ISC",
+  "dependencies": {
+    "alasql": "^0.4.1",
+    "fs": "0.0.1-security",
+    "isnumeric": "^0.3.2",
+    "moment": "^2.18.1",
+    "rfr": "^1.2.3",
+    "tcx-js": "^0.1.2",
+    "underscore": "^1.8.3",
+    "xml2json": "^0.11.0"
+  }
+}
